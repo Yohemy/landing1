@@ -5,7 +5,10 @@
 .table td,
 .table th {
     color: var(--text-color);
+    background-color: #0c0c0c;
 }
+
+
 
 .t_border {
     border-color: var(--text-color) !important;
