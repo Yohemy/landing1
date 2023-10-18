@@ -12,7 +12,7 @@ const introdata = {
   },
   description:
     'Журналист, телеведущая, начальник отдела коммуникаций и связей с общественностью ФГУП «ПВС» МВД России',
-  your_src_url: require('~/assets/title_page.jpg'),
+  your_src_url: require('~/assets/3.jpg'),
 };
 
 const dataabout = {
@@ -114,7 +114,7 @@ const imageData = [
     src: require('~/assets/2.jpg'),
   },
   {
-    src: require('~/assets/3.jpg'),
+    src: require('~/assets/title_page.jpg'),
   },
   {
     src: require('~/assets/5.jpg'),
